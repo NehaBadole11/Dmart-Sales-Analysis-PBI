@@ -41,10 +41,3 @@ The dashboard includes the following:
 - Frozen Foods and Dairy categories contribute the most to profit
 - Discounts are significantly impacting profit margins in select categories
   
-
-
-
-
-
-
-
